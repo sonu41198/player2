@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include<conio.h>
-int main(void) 
+#include <conio.h>   
+int main() 
 {
 	char str[30];
 	scanf("%s",str);
