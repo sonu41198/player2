@@ -29,6 +29,7 @@ int main(void)
 	}
 	for(m=0;m<count1;m++)
 	{
+		
 		for(l=m+1;l<count1;l++)
 		{
 			if(b[m]>b[l])
