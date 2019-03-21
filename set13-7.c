@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
     char a[10000],b[10000];
     int i,j=0;
@@ -24,4 +24,5 @@ void main()
             printf("%c",a[i]);
         }
     }
+    return 0;
 }
