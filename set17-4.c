@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-int main()
+void main()
 {
     int n,a[100],i,f,k,p;
     scanf("%d %d",&n,&k);
@@ -26,5 +26,4 @@ int main()
     {
         printf("%d",p);
     }
-    return 0;
 }
